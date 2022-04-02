@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "App1",
+    "slug": "App1",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "",
+    "android": {
+      "package": "com.je4stine.App1"
+    }
+  }
+}
